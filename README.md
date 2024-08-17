@@ -1,5 +1,26 @@
-# 💫 About Me:
-Hi there! I'm a Computer Science graduate with a passion for developing innovative software solutions that solve real-world problems. With a solid foundation in web development and artificial intelligence, I thrive in creating applications that are both user-friendly and powered by intelligent algorithms.<br><br>My Skills:<br>Languages: JavaScript, Python, Java, PHP<br>Web Development: React.js,Node.js, Express.js<br>AI/ML: OpenAI GPT<br>Databases: MySQL, MongoDB<br>Tools & Platforms: Docker, AWS, Git<br>What I'm Working On:<br>Building an AI-driven job portal that streamlines the hiring process by matching job seekers with job openings.<br>Developing an interview platform that utilizes OpenAI's GPT to conduct interviews and provide detailed feedback to candidates.<br>My Interests:<br>Exploring the latest trends in AI and machine learning.<br>Building efficient and scalable web applications.<br>Contributing to open-source projects that make a positive impact.<br>Let's Connect!<br>Feel free to check out my repositories and don't hesitate to reach out if you want to collaborate or discuss ideas. I'm always open to learning and sharing knowledge with others in the tech community!<br><br>
+# Hi there!
+
+I'm a **Computer Science graduate** with a passion for developing innovative software solutions that solve real-world problems. With a solid foundation in **web development** and **artificial intelligence**, I thrive in creating applications that are both **user-friendly** and powered by intelligent algorithms.
+
+## My Skills:
+- **Languages:** JavaScript, Python, Java, PHP
+- **Web Development:** React.js, Node.js, Express.js
+- **AI/ML:** OpenAI GPT
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Docker, AWS, Git
+
+## What I'm Working On:
+- **Building an AI-driven job portal** that streamlines the hiring process by matching job seekers with job openings.
+- **Developing an interview platform** that utilizes OpenAI's GPT to conduct interviews and provide detailed feedback to candidates.
+
+## My Interests:
+- **Exploring the latest trends** in AI and machine learning.
+- **Building efficient and scalable** web applications.
+- **Contributing to open-source projects** that make a positive impact.
+
+## Let's Connect!
+Feel free to check out my repositories and don't hesitate to reach out if you want to collaborate or discuss ideas. I'm always open to learning and sharing knowledge with others in the tech community!
+
 
 
 ## 🌐 Socials:
