@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a **Computer Science graduate** with a passion for developing innovative software solutions that solve real-world problems. With a solid foundation in **web development** and **artificial intelligence**, I thrive in creating applications that are both **user-friendly** and powered by intelligent algorithms.
+I'm a **Computer Science graduate** passionate about developing innovative software solutions that solve real-world problems. With a solid foundation in **web development** and **artificial intelligence**, I thrive in creating both **user-friendly** applications and powered by intelligent algorithms.
 
 ## My Skills:
 - **Languages:** JavaScript, Python, Java, PHP
