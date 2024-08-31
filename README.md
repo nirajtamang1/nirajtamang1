@@ -3,7 +3,7 @@
 I'm a **Computer Science graduate** passionate about developing innovative software solutions that solve real-world problems. With a solid foundation in **web development** and **artificial intelligence**, I thrive in creating both **user-friendly** applications and powered by intelligent algorithms.
 
 ## My Skills:
-- **Languages:** JavaScript, Python, Java, PHP, C++
+- **Languages:** JavaScript, Python, Java, PHP
 - **Web Development:** React.js, Node.js, Express.js
 - **AI/ML:** OpenAI GPT
 - **Databases:** MySQL, MongoDB
