@@ -4,7 +4,7 @@ I'm a **Computer Science graduate** passionate about developing innovative softw
 
 ## My Skills:
 - **Languages:** JavaScript, Python, Java, PHP
-- **Web Development:** React.js, Node.js, Express.js
+- **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, React.js, Node.js, Express.js
 - **AI/ML:** OpenAI GPT
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Docker, AWS, Git
