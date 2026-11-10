@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a **Computer Science graduate** passionate about developing innovative software solutions that solve real-world problems. With a solid foundation in **web development** and **artificial intelligence**, I thrive in creating both **user-friendly** applications and powered by intelligent algorithms.
+MSc Software Engineering graduate with a background in Computer Science and a strong foundation in software development, web technologies, and artificial intelligence. Passionate about building innovative, efficient, and user-friendly software solutions to solve real-world challenges. A motivated and adaptable professional with strong problem-solving skills, eager to apply technical knowledge, contribute to dynamic development teams, and grow within the technology industry.
 
 ## My Skills:
 - **Languages:** JavaScript, Python, Java, PHP
